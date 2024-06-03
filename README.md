@@ -66,5 +66,5 @@ Screenshots
 
 1. **Creating Object:**
 
-   ![Creating Object]("images/Screenshot 2024-05-30 225720.png")
+   ![Creating Object](images/Screenshot 2024-05-30 225720.png)
 
