@@ -1,12 +1,12 @@
-Project Title: CRUD Python Module
+### Project Title: CRUD Python Module
 
 This project is a Python module designed to perform basic CRUD (Create, Read, Update, Delete) operations on a MongoDB database. The module provides an interface to interact with the database, allowing users to add new records, retrieve existing records, update records, and delete records.
 
-Motivation
+### Motivation
 
 The motivation behind this project is to create a simple yet powerful tool for managing data within a database. This module aims to provide an easy-to-use interface for performing CRUD operations, which are fundamental for any data-driven application. By developing this module, I aim to enhance my understanding of database interactions and improve my Python programming skills.
 
-Getting Started
+### Getting Started
 
 To get a local copy up and running, follow these simple steps:
 1.	Clone the repository:
@@ -16,7 +16,7 @@ cd animal_shelter_project
 3.	Install the required libraries:
 pip install -r requirements.txt
 
-Usage
+### Usage
 
 Here are some examples of how the CRUD Python module can be used:
 1.	Creating a new record:
@@ -33,7 +33,7 @@ records = shelter.read({"species": "Cat"})
 for record in records:
     print(record)
 
-Code Example
+### Code Example
 
 Tests
 Below is an example of the create and read methods in the AnimalShelter class:
@@ -66,5 +66,5 @@ class AnimalShelter(object):
 
 1. **Creating Object:**
 
-   ![Creating Object](images/Screenshot 2024-05-30 225720.png)
+   ![Creating Object](images/Screenshot2024-05-30.png)
 
