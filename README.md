@@ -13,8 +13,6 @@ To get a local copy up and running, follow these simple steps:
 git clone https://github.com/MartLo28/animal_shelter_project/
 2.	Navigate to the project directory:
 cd animal_shelter_project
-3.	Install the required libraries:
-pip install -r requirements.txt
 
 ### Usage
 
