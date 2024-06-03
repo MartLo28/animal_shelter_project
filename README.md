@@ -61,7 +61,7 @@ class AnimalShelter(object):
     def read(self, query):
         return self.database.animals.find(query)
 
-Screenshots
+### Screenshots
 
 
 1. **Creating Object:**
